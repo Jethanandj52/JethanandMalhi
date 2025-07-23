@@ -2,7 +2,7 @@
 <h3 align="center">Final Year BSCS Student | Full Stack Developer | API Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=440&lines=🚀+Building+APIverse+FYP;🌐+MERN+Stack+Developer;🔥+Learning+React+Native" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=440&lines=🚀+Building+APIverse+FYP;🌐+MERN+Stack+Developer;🔥+Learning+React+Native" alt="Typing SVG](https://avatars.githubusercontent.com/u/134337163?v=4)" />
 </p>
 
 ---
