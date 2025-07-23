@@ -2,7 +2,7 @@
 <h3 align="center">Final Year BSCS Student | Full Stack Developer | API Enthusiast</h3>
 
 <p align="center">
-  <img src=" https://avatars.githubusercontent.com/u/134337163?v=4" />
+  <img src="[ https://avatars.githubusercontent.com/u/134337163?v=4](https://ibb.co/Z6y2S5Hn)" />
 </p>
 
 ---
